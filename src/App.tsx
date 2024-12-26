@@ -4,7 +4,7 @@ import { IonApp,IonTabs, IonTabBar, IonTabButton, IonIcon, IonLabel, IonRouterOu
 import { IonReactRouter } from '@ionic/react-router';
 
 import { playCircle, radio, library, search } from 'ionicons/icons';
-import Home from './pages/HomePage';
+import Home from './pages/Home';
 import './styles.css';
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
